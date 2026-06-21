@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(255, 251, 245);
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(32, 28, 87);
+    color: white;
+    margin-bottom: 20px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 15px;
+}
+
+header a {
+    text-decoration: none; 
+    color: inherit;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+    color: rgb(216, 216, 216);
+}
+
+.main-content-container {
+    width: 50%;
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.main-content-container h1 {
+    text-align: center;
+}
+
+.codereview-container {
+    margin: 0 auto;
+    max-width: 1000px;
+    text-align: center;
+}
+
