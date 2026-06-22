@@ -14,7 +14,7 @@ function Artifacts() {
             <ul>
               <li><a href="https://github.com/j-vasquez21/CS340-Project/tree/main/Dashboard/frontend" target="_blank" rel="noreferrer">Enhancement </a></li>
               <li><a href="https://github.com/j-vasquez21/CS340-Project/blob/main/pre-enhancement/ProjectTwoDashboard.ipynb" target="_blank" rel="noreferrer">Original</a></li>
-              <li><a href="">Narrative</a></li>
+              <li><a href="https://github.com/j-vasquez21/j-vasquez21.github.io/blob/main/narratives/Narrative%201.docx">Narrative</a></li>
             </ul>
           </article>
         </section>
@@ -26,7 +26,7 @@ function Artifacts() {
             <ul>
               <li><a href="https://github.com/j-vasquez21/IT-145-Grazioso-Salvare-Project/blob/main/Grazioso-Salvare/src/Driver.java" target="_blank" rel="noreferrer">Enhancement</a></li>
               <li><a href="https://github.com/j-vasquez21/IT-145-Grazioso-Salvare-Project/blob/main/Driver.java" target="_blank" rel="noreferrer">Original</a></li>
-              <li><a href="">Narrative</a></li>
+              <li><a href="https://github.com/j-vasquez21/j-vasquez21.github.io/blob/main/narratives/Narrative%202.docx">Narrative</a></li>
             </ul>
           </article>
         </section>
@@ -38,7 +38,7 @@ function Artifacts() {
             <ul>
               <li><a href="https://github.com/j-vasquez21/CS340-Project/tree/main/Dashboard/backend" target="_blank" rel="noreferrer">Enhancement</a></li>
               <li><a href="https://github.com/j-vasquez21/CS340-Project/blob/main/pre-enhancement/CRUD_Python_Module.py" target="_blank" rel="noreferrer">Original</a></li>
-              <li><a href="" target="_blank" rel="noreferrer">Narrative</a></li>
+              <li><a href="https://github.com/j-vasquez21/j-vasquez21.github.io/blob/main/narratives/Narrative%203.docx" target="_blank" rel="noreferrer">Narrative</a></li>
             </ul>
           </article>
         </section>
