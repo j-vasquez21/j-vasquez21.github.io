@@ -2,16 +2,21 @@ body {
     margin: 0;
     padding: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: rgb(255, 251, 245);
+    background-color: rgb(235, 235, 235);
 }
 
 .header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color: rgb(32, 28, 87);
+    background: #020024;
+    background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
     color: white;
     margin-bottom: 20px;
+    padding: 10px;
 }
 
 .nav-links {
@@ -35,6 +40,9 @@ header a {
     min-width: 400px;
     margin: 0 auto;
     padding: 30px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px 50px;
 }
 
 .main-content-container h1 {
@@ -45,5 +53,6 @@ header a {
     margin: 0 auto;
     max-width: 1000px;
     text-align: center;
+    
 }
 
